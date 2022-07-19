@@ -77,7 +77,7 @@ You can get the code in the following link. https://github.com/sreevinithaa/ecom
 
 ## Production
 
-You can check the app in following link. https://webgooglebooks.herokuapp.com/
+You can check the app in following link. https://shopnshop.herokuapp.com/
 
 
 ## Questions
